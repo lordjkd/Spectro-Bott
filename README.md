@@ -1,6 +1,6 @@
-# Meu Super Bot de WhatsApp
+# Spectro Bot
 
-Bem-vindo ao **Meu Super Bot de WhatsApp**! Este bot foi criado para melhorar a experiência dos usuários em grupos de WhatsApp, oferecendo uma variedade de comandos úteis e divertidos. Ele é altamente personalizável e pode ser utilizado para gerenciar grupos, jogar, e muito mais.
+Bem-vindo ao **Spectro Bot**! Este bot foi criado para melhorar a experiência dos usuários em grupos de WhatsApp, oferecendo uma variedade de comandos úteis e divertidos. Ele é altamente personalizável e pode ser utilizado para gerenciar grupos, jogar, e muito mais.
 
 ## Funcionalidades
 
