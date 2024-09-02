@@ -1,28 +1,45 @@
-# Spectro Bot
+# Spectro-Bot
 
-Bem-vindo ao **Spectro Bot**! Este bot foi criado para melhorar a experiência dos usuários em grupos de WhatsApp, oferecendo uma variedade de comandos úteis e divertidos. Ele é altamente personalizável e pode ser utilizado para gerenciar grupos, jogar, e muito mais.
+Spectro-Bot é um bot avançado desenvolvido para gerenciar grupos com comandos dinâmicos e altamente personalizáveis, oferecendo diversas funcionalidades de moderação, entretenimento, e interatividade.
 
-## Funcionalidades
+## Funcionalidades Principais
 
-- **Gerenciamento de Grupos:** Comandos para administradores e donos gerenciarem o grupo de forma eficiente.
-- **Jogos e Diversão:** Vários jogos integrados como quiz, jogo da velha, entre outros.
-- **Sistema de RPG:** Crie e evolua seu personagem, escolha raças e classes, e participe de missões.
-- **Sistema VIP:** Usuários VIP têm acesso a comandos e funcionalidades exclusivas.
-- **Sistema de Sorteios:** Realize sorteios entre os membros do grupo com prêmios e títulos exclusivos.
-- **Zoeiras:** Comandos de brincadeiras e interações divertidas com outros membros do grupo.
+### Menu BOT
+- **!botstatus**: Exibe o tempo de atividade do bot.
+- **!criador**: Exibe informações sobre o criador do bot.
+- **!feedbackbot [mensagem]**: Envia feedback diretamente para o desenvolvedor do bot.
+- **!ping**: Mostra a latência do bot.
+
+### Menu RPG
+- **!iniciar**: Inicia uma nova aventura RPG.
+- **!loja**: Exibe itens disponíveis na loja do RPG.
+
+### Menu ADM
+- **!marcar**: Marca todos os membros do grupo.
+- **!antilink [on/off]**: Ativa ou desativa a proteção contra links.
+- **!silenciar [tempo]**: Silencia temporariamente o grupo.
+- **!destravar**: Remove o silêncio do grupo.
+
+### Menu VIP
+- **!nickvip [novo_nick]**: Altera o apelido de um usuário VIP.
+- **!musica [nome_musica]**: Toca uma música no grupo.
+- **!acessosecreto**: Concede acesso a um menu exclusivo para VIPs.
+
+### Menu Zoeira
+- **!piada**: Conta uma piada aleatória.
+- **!corno [@usuário]**: Brinca dizendo que o usuário é corno.
+- **!gadometro [@usuário]**: Mede o nível de "gado" do usuário mencionado.
 
 ## Instalação
 
 ### Requisitos
 
-- **Python 3.8+**
-- **Termux** (para rodar o bot em ambiente Android)
-- **Git**
-- **Bibliotecas Python:** instale as dependências listadas no arquivo `requirements.txt`.
+- Python 3.x
+- Bibliotecas listadas em `requirements.txt`
 
 ### Passos
 
-1. Clone o repositório do bot:
+1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/seuusuario/meu-super-bot.git
-   cd meu-super-bot
+   git clone https://github.com/KDSjohn/Spectro-Bot.git
+   cd Spectro-Bot
